@@ -1,6 +1,6 @@
 ### Hi there, I'm Ravi - aka [Mareboina Ravi]👋
 
-## I'm a Recent Graduate, Developer!
+<p align="center"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology. 📚📈🔬 In my repos you'll find projects created using .js, .py
 - 🔭 I’m currently Searching for Job as A Fresher !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Github Members.
@@ -9,12 +9,10 @@
 
 ### Connect with me:
 
-<img align="left" alt="MareboinaRavi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="MareboinaRavi | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="MareboinaRavi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="MareboinaRavi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="MareboinaRavi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/ravimareboina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/ravi.naani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
 
 ### Languages and Tools:
 
@@ -26,10 +24,3 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-
----
-
---- 
-[website]: https://mareboinaravi.github.io/portfolio/
-[linkedin]: https://www.linkedin.com/in/ravimareboina/
-[Blog]:https://webdevwithme.blogspot.com/
