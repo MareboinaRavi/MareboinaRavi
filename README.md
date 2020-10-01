@@ -1,6 +1,7 @@
 ### Hi there, I'm Ravi - aka [Mareboina Ravi]👋
 
 <p align="center"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology. 📚📈🔬 In my repos you'll find projects created using .js, .py
+  
 - 🔭 I’m currently Searching for Job as A Fresher !
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Github Members.
