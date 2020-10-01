@@ -2,7 +2,7 @@
 
 <p align="center"><img width=50% src="https://i.imgur.com/jntURe0.jpg"></p>
 
-<p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology 📚🔬. 
+<p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology. 
   In my repos you'll find projects created using .js, .py
   
 - 🔭 I’m currently Searching for Job as A Fresher !
