@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything as much as I can.🤣
 - 👯 I’m looking to collaborate with other Github Members.
 - 🥅 2020 Goals: Get a Job / Become a Developer.
-- ⚡ Fun fact: I love to Code and play with Different Languages.
+- ⚡ Fun fact: Marvel Fan.
 
 ### Connect with me:
 
