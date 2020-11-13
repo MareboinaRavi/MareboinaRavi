@@ -1,7 +1,5 @@
 ### Hi there, I'm Ravi - aka [Mareboina Ravi]👋
 
-<p align="center"><img width=50% src="https://i.imgur.com/jntURe0.jpg"></p>
-
 <p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology.   
     In my repos you'll find projects created using .js, .py
   
@@ -19,18 +17,13 @@
 <a href="https://www.facebook.com/ravi.naani.775/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-
-
 <h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://medium.com/@mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mareboinaravi446" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a>
 </p>
-
 
 ### Languages and Tools:
 
