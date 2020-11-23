@@ -1,15 +1,18 @@
-### Hi there, I'm Ravi - aka [Mareboina Ravi]👋
+## Hi there, I'm Ravi - aka [Mareboina Ravi]👋
 
-<p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science B.Tech Graduate. I want to be at the bleeding edge of technology.   
-    In my repos you'll find projects created using .js, .py
+<p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science (B.Tech) Graduate.
+ I want to be at the bleeding edge of technology.  
+ In my repos you'll find projects created using .js, .py and .java
   
-- 🔭 I’m currently Searching for Job as A Fresher !
+- 🔭 I’m currently Searching for Job as A Fresher!(2020 passout)
 - 🌱 I’m currently learning everything as much as I can.🤣
 - 👯 I’m looking to collaborate with other Github Members.
 - 🥅 2020 Goals: Get a Job / Become a Developer.
-- ⚡ Fun fact: Marvel Fan.
+- ⚡ Fun fact: Meme lover & Marvel Fan (Especially Iron man).
+- Quote:- If you want to become handsome then Give your hand to someone.
+- 📒 **Learning && Living**
 
-### Connect with me:
+### Wanna Connect with me(feel free to do it):
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ravimareboina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -17,7 +20,7 @@
 <a href="https://www.facebook.com/ravi.naani.775/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
