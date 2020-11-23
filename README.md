@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with other Github Members.
 - 🥅 2020 Goals: Get a Job / Become a Developer.
 - ⚡ Fun fact: Meme lover & Marvel Fan (Especially Iron man).
-- Quote:- If you want to become handsome then Give your hand to someone.
+- **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
 
 ### Wanna Connect with me(feel free to do it):
@@ -21,8 +21,6 @@
 </p>
 
 <h3 align="center">A passionate developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
-<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://medium.com/@mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mareboinaravi446" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a>
@@ -40,3 +38,5 @@
 <br />
 
 ⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
+<p align="right">
