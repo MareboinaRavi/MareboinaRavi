@@ -1,6 +1,6 @@
 ## Hi there, I'm Ravi - aka [Mareboina Ravi]👋
 
-<p align="left"> <samp>Hi, My name is Ravi. I am a Computer Science (B.Tech) Graduate.
+<p align="left"> <samp>Hi, I am a Computer Science (B.Tech) Graduate.
  I want to be at the bleeding edge of technology.  
  In my repos you'll find projects created using .js, .py and .java
   
