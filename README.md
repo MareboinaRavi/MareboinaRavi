@@ -1,4 +1,4 @@
-## Hi there, I'm Ravi - aka [Mareboina Ravi]👋
+## Hi there, I'm Ravi - aka [Mareboina Ravi]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <samp>Hi, I am a Computer Science (B.Tech) Graduate.
  I want to be at the bleeding edge of technology.  
@@ -18,10 +18,10 @@
 <a href="https://www.linkedin.com/in/ravimareboina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ravi.naani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ravi.naani.775/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+ <a href="https://www.gmail.com/mareboinaravi446@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center">A passionate developer from India</h3>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">👨‍💻 My other profiles:</h3>
 <a href="https://medium.com/@mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mareboinaravi446" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a><br>
 <a href="https://dev.to/mareboinaravi">
@@ -43,3 +43,9 @@
 ⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
 <p align="right">
+ 
+ <details close>
+<summary>:zap: GitHub Statistics</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=MareboinaRavi&show_icons=true&theme=nord" width="400px">
+</details>
+
