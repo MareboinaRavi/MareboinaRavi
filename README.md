@@ -22,11 +22,10 @@
 </p>
 
 <h3 align="left">👨‍💻 My other profiles:</h3>
+<p>
+<a href="https://dev.to/mareboinaravi" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mareboinaravi446" height="30" width="40" /></a>
 <a href="https://medium.com/@mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mareboinaravi446" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a><br>
-<a href="https://dev.to/mareboinaravi">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Mareboina Ravi's DEV Profile" height="30" width="30">
-</a>
+<a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
