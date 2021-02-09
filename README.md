@@ -39,6 +39,8 @@
 <br />
 <br />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MareboinaRavi&show_icons=true&locale=en&layout=compact" alt="MareboinaRavi" /></p>
+
 ⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
 <p align="right">
