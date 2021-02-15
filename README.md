@@ -41,11 +41,12 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MareboinaRavi&show_icons=true&locale=en&layout=compact" alt="MareboinaRavi" /></p>
 <br />
 <br />
-⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)<br />
-<p > <img src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
+⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)
 <br />
  <details close>
 <summary>:zap: GitHub Statistics</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=MareboinaRavi&show_icons=true&theme=nord" width="400px">
 </details>
+<br />
+<p > <img align="left" src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
 
