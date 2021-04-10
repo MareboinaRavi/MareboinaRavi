@@ -1,5 +1,5 @@
 ## Hi there, I'm Ravi - aka [Mareboina Ravi]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MareboinaRavi&show_icons=true&locale=en&layout=compact" alt="MareboinaRavi" /></p>
 <p align="left"> <samp>Hi, I am a Computer Science (B.Tech) Graduate.
  I want to be at the bleeding edge of technology.  
  In my repos you'll find projects created using .js, .py and .java
@@ -38,10 +38,9 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 <br />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MareboinaRavi&show_icons=true&locale=en&layout=compact" alt="MareboinaRavi" /></p>
 <br />
 <br />
-⭐️ From [@MareboinaRavi](https://github.com/MareboinaRavi)
+⭐️ From [@MareboinaRavi]( https://github.com/MareboinaRavi)
 <br />
  <details close>
 <summary>:zap: GitHub Statistics</summary>
