@@ -3,7 +3,7 @@
  I want to be at the bleeding edge of technology.  
  In my repos you'll find projects created using .js, .py and .java
   
-- 🔭 I’m currently Searching for Job as A Fresher!(2020 passout)
+- 🔭 I’m currently Working on React.
 - 🌱 I’m currently learning everything as much as I can.🤣
 - 👯 I’m looking to collaborate with other Github Members.
 - 🥅 2020 Goals: Get a Job / Become a Developer.
