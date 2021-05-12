@@ -6,7 +6,7 @@
 - 🔭 I’m currently Working on React.
 - 🌱 I’m currently learning everything as much as I can.🤣
 - 👯 I’m looking to collaborate with other Github Members.
-- 🥅 2020 Goals: Get a Job / Become a Developer.
+- 🥅 2021 Goals: Full stack(MERN) Developer.
 - ⚡ Fun fact: Meme lover & Marvel Fan (Especially Iron man).
 - **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
