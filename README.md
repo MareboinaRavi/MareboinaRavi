@@ -4,7 +4,7 @@
  In my repos you'll find projects created using .js, .py and .java
   
 - 🔭 I’m currently Working on React.
-- 🌱 I’m currently learning everything as much as I can.🤣
+- 🌱 I’m currently learning everything in practical manner😎.
 - 👯 I’m looking to collaborate with other Github Members.
 - 🥅 2021 Goals: Full stack(MERN) Developer.
 - ⚡ Fun fact: Meme lover & Marvel Fan (Especially Iron man).
