@@ -11,25 +11,22 @@
 - 🚲 Fun fact about Me :- Meme lover & Marvel Fan (Especially Iron man).
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
-
+ 
+ ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=coral&lines=I'm+a+Frontend+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Mentor;I'm+a+Web+Designer)
 ### Wanna Connect with me(feel free to do it):
-
 <p align="center">
 <a href="https://www.linkedin.com/in/ravimareboina/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/ravi.naani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/ravi.naani.775/"><img src="https://img.shields.io/badge/facebook-%23E4405F.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
  <a href="https://www.gmail.com/mareboinaravi446@gmail.com"><img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 <h3 align="left">👨‍💻 My other profiles:</h3>
 <p>
 <a href="https://dev.to/mareboinaravi" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="mareboinaravi446" height="30" width="40" /></a>
 <a href="https://medium.com/@mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mareboinaravi446" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mareboinaravi446" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mareboinaravi446" height="30" width="40" /></a>
 </p>
-
 ### Languages and Tools:
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -46,4 +43,3 @@
 </details>
 <br />
 <p > <img align="left" src="https://komarev.com/ghpvc/?username=mareboinaravi" alt="mareboinaravi" /> </p>
-
