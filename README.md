@@ -7,7 +7,7 @@
 - 💻 I’m currently learning everything in practical manner😎.
 - 🎯 I’m looking to collaborate with other Github Members.
 - 🥅 2021 Goals: Full stack(MERN) Developer.
-- ⚡ Fun fact about Coding :- <b> The word computer “bug” was inspired by a real bug. It was founded by Grace Hopper in 1947 </b><br>
+- ⚡ Fun fact about Coding :- <b> Fortran (FORmula TRANslation) was the name of the first programming language. </b><br>
 - 🚲 Fun fact about Me :- Meme lover & Marvel Fan (Especially Iron man).
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
