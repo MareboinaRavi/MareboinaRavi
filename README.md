@@ -1,4 +1,4 @@
-## Hi there, I'm Ravi - aka [Mareboina Ravi]<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi there, I'm Ravi - aka [Mareboina Ravi] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 <p align="left"> <samp>Hi, I am a Computer Science (B.Tech) Graduate.
  I want to be at the bleeding edge of technology.  
  In my repos you'll find projects created using .js, .py and .java
