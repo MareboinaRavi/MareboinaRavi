@@ -3,10 +3,10 @@
  I want to be at the bleeding edge of technology.  
  In my repos you'll find projects created using .js, .py and .java
   
-- 🔭 I’m currently Working on React.
-- 💻 I’m currently learning everything in practical manner😎.
+- 🔭 I’m currently Working with AWS.
+- 💻 I’m currently learning about Treading.
 - 🎯 I’m looking to collaborate with other Github Members.
-- 🥅 2021 Goals: Full stack(MERN) Developer.
+- 🥅 2022 Goals: App Developer.
 - ⚡ Fun fact about Coding :- <b> Fortran (FORmula TRANslation) was the name of the first programming language. </b><br>
 - 🚲 Fun fact about Me :- Meme lover & Marvel Fan (Especially Iron man).
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
