@@ -1,4 +1,4 @@
-## Hi there, I'm Ravi - aka [Mareboina Ravi] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+## Hi there, I'm Ravi - AKA [Mareboina Ravi] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
 <p align="left"> <samp>Hi, I am a FullStack Developer.
  In my repos you'll find projects created using .js, .py and .java
   
