@@ -1,14 +1,13 @@
 ## Hi there, I'm Ravi - aka [Mareboina Ravi] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-<p align="left"> <samp>Hi, I am a Computer Science (B.Tech) Graduate.
- I want to be at the bleeding edge of technology.  
+<p align="left"> <samp>Hi, I am a FullStack Developer.
  In my repos you'll find projects created using .js, .py and .java
   
-- 🔭 I’m currently Working with AWS.
-- 💻 I’m currently learning about Treading.
+- 🔭 I’m currently Working with Machine Learning.
+- 💻 I’m currently learning about Purspose of Life.
 - 🎯 I’m looking to collaborate with other Github Members.
-- 🥅 2022 Goals: App Developer.
+- 🥅 2023 Goals: AI/ML Developer.
 - ⚡ Fun fact about Coding :- <b> Fortran (FORmula TRANslation) was the name of the first programming language. </b><br>
-- 🚲 Fun fact about Me :- Meme lover & Marvel Fan (Especially Iron man).
+- 🚲 Fun fact about Me :- Memes,food and traveling.
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
 - 📒 **Learning && Living**
  
