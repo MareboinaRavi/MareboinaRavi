@@ -1,11 +1,11 @@
 ## Hi there, I'm Ravi - AKA [Mareboina Ravi] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
-<p align="left"> <samp>Hi, I am a FullStack Developer.
+<p align="left"> <samp>Hi, I am a FullStack Developer(MERN & MEAN).
  In my repos you'll find projects created using .js, .py and .java
   
-- 🔭 I’m currently Working with Machine Learning.
+- 🔭 I’m currently Working with Javascript.
 - 💻 I’m currently learning about Purspose of Life.
 - 🎯 I’m looking to collaborate with other Github Members.
-- 🥅 2023 Goals: AI/ML Developer.
+- 🥅 2024 Goals: AWS Developer.
 - ⚡ Fun fact about Coding :- <b> Fortran (FORmula TRANslation) was the name of the first programming language. </b><br>
 - 🚲 Fun fact about Me :- Memes,food and traveling.
 - 🎂  **Quote:- If you want to become handsome then Give your hand to someone.**
